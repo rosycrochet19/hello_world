@@ -6,5 +6,5 @@ image_resource:
   source: {repository: ubuntu}
 
 run:
-  path: uname
-  args: [-msrpo]
+  path: echo
+  args: [this change was triggered!]
