@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [this change was triggered!]
+  args: [this change was triggered again!]
